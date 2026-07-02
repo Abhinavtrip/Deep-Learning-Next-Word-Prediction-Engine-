@@ -89,7 +89,3 @@ Training and validation loss/accuracy curves are plotted after training. Note th
 - Accuracy is constrained by the size of the training corpus; a larger or more diverse dataset would likely improve results.
 - The current architecture could be extended with attention mechanisms or replaced with a Transformer-based model for better long-range coherence.
 - Hyperparameters (embedding size, LSTM units, dropout rate) were tuned manually and could benefit from systematic search.
-
-## License
-
-Add your preferred license here (e.g., MIT).
